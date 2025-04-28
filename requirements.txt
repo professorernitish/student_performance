@@ -3,3 +3,6 @@ numpy
 matplotlib
 
 #-e .
+scikit-learn
+catboost
+xgboost
