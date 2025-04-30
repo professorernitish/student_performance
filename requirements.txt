@@ -8,3 +8,5 @@ catboost
 xgboost
 dill
 flask
+
+gunicorn==22.0.0
